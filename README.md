@@ -1,6 +1,6 @@
 # Rebuild-website-tapera
 
-![Logo Tapera](./src/assets/Screenshot 20240707-224517.png)
+![Logo Tapera](./src/assets/Screenshot_20240707-224517.png)
 
 # Tapera Website
 
