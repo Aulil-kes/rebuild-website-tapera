@@ -1,7 +1,4 @@
 # Rebuild-website-tapera
-
-![Logo Tapera](./src/assets/Screenshot_20240707-224517.png)
-
 # Tapera Website
 
 Ini adalah proyek pembuatan website Tapera untuk keperluan belajar. Proyek ini mencakup berbagai teknologi dan konsep web development seperti HTML, CSS, JavaScript, dan framework frontend seperti React.
@@ -40,3 +37,8 @@ Ini adalah proyek pembuatan website Tapera untuk keperluan belajar. Proyek ini m
    ```bash
    yarn dev
    ```
+
+
+
+![Logo Tapera](./src/assets/Screenshot_20240707-224517.png)
+![Alt "assets"](./src/assets/Screenshot_20240707-230141.png)
