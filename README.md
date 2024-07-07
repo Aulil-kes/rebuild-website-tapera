@@ -38,7 +38,10 @@ Ini adalah proyek pembuatan website Tapera untuk keperluan belajar. Proyek ini m
    yarn dev
    ```
 
-
+## Demo Website
 
 ![Logo Tapera](./src/assets/Screenshot_20240707-224517.png)
 ![Alt "assets"](./src/assets/Screenshot_20240707-230141.png)
+![Alt "assets"](./src/assets/Screenshot_20240707-230141.png)
+![Alt "assets"](./src/assets/Screenshot_20240707-230204.png)
+![Alt "assets"](./src/assets/Screenshot_20240707-230217.png)
